@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eridahcei.humanui.org/sitemap.xml
